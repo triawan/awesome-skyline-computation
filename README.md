@@ -12,6 +12,11 @@
 * and soon
 
 ## **Lecture Notes**
+* CSCI2100/ESTR2102 Data Structures - Yufei Tao : https://appsrv.cse.cuhk.edu.hk/~taoyf/course/2100/21-fall/
+* Lecture Notes of CSCI5610 Advanced Data Structures - Yufei Tao : https://appsrv.cse.cuhk.edu.hk/~taoyf/course/5610/22-spring/5610notes.pdf
+* CSCI3160 Design and Analysis of Algorithms - Yufei Tao : https://appsrv.cse.cuhk.edu.hk/~taoyf/course/3160/19-fall/#notes
+* CSCI5010: Practical Computational Geometry Algorithms - Yufei Tao : https://appsrv.cse.cuhk.edu.hk/~taoyf/course/5010/spr21/#notes
+* CMSC5724 Data Mining and Knowledge Discovery - Yufei Tao : https://appsrv.cse.cuhk.edu.hk/~taoyf/course/cmsc5724/21-fall/
 * list
 * and soon
 
