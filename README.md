@@ -34,10 +34,8 @@
 * Miao X, Gao Y, Chen G, Zhang T. 2016. K-Dominant Skyline Queries on Incomplete Data. Inf Sci (Ny). 367–368:990–1011. doi:10.1016/j.ins.2016.07.034. http://dx.doi.org/10.1016/j.ins.2016.07.034.
 * Kulkarni RD, Momin BF. 2016. Skyline computation for frequent queries in update intensive environment. J King Saud Univ - Comput Inf Sci. 28(4):447–456. doi:10.1016/j.jksuci.2015.04.003. http://dx.doi.org/10.1016/j.jksuci.2015.04.003.
 * Kalyvas C, Maragoudakis M. 2019. Skyline and reverse skyline query processing in SpatialHadoop. Data Knowl Eng. 122(April):55–80. doi:10.1016/j.datak.2019.04.004. https://doi.org/10.1016/j.datak.2019.04.004.
-* Kalyvas C, Maragoudakis M. 2019. Skyline and reverse skyline query processing in SpatialHadoop. Data Knowl Eng. 122(April):55–80. doi:10.1016/j.datak.2019.04.004. https://doi.org/10.1016/j.datak.2019.04.004.
 * Ihm SY, Lee KE, Nasridinov A, Heo JS, Park YH. 2014. Approximate convex skyline: A partitioned layer-based index for efficient processing top-k queries. Knowledge-Based Syst. 61:13–28. doi:10.1016/j.knosys.2014.01.022. http://dx.doi.org/10.1016/j.knosys.2014.01.022.
 * Gao Y, Liu Q, Zheng B, Mou L, Chen G, Li Q. 2015. On processing reverse k-skyband and ranked reverse skyline queries. Inf Sci (Ny). 293:11–34. doi:10.1016/j.ins.2014.08.052. http://dx.doi.org/10.1016/j.ins.2014.08.052.
-* Dehaki GB, Ibrahim H, Udzir NI, Sidi F, Alwan AA. 2018. A framework for processing skyline queries for a group of mobile users. ACM Int Conf Proceeding Ser.:333–339. doi:10.1145/3282373.3282392.
 * Dehaki GB, Ibrahim H, Udzir NI, Sidi F, Alwan AA. 2018. A framework for processing skyline queries for a group of mobile users. ACM Int Conf Proceeding Ser.:333–339. doi:10.1145/3282373.3282392.
 * Ding L, Zhang X, Zhang H, Liu L, Song B. 2021. CrowdSJ: Skyline-Join Query Processing of Incomplete Datasets with Crowdsourcing. IEEE Access. 9:73216–73229. doi:10.1109/ACCESS.2021.3079324.
 * Kuo A Te, Chen H, Tang L, Ku WS, Qin X. 2022. ProbSky: Efficient Computation of Probabilistic Skyline Queries over Distributed Data. IEEE Trans Knowl Data Eng. doi:10.1109/TKDE.2022.3151740. 
@@ -49,7 +47,6 @@
 * Wang Z, Xin J, Ding L, Ba J, Gao X. 2018. ρ-Dominant skyline computation on data stream. IEEE Access. 6:53201–53213. doi:10.1109/ACCESS.2018.2871254.
 * Papadias D, Tao Y, Fu G, Seeger B. 2005. Progressive skyline computation in database systems.
 * BALKE W, GUNTZER U. 2004. Multi-objective Query Processing for Database Systems. Proc 2004 VLDB Conf.:936–947. doi:10.1016/b978-012088469-8/50082-6.
-* Liu X, Yang DN, Ye M, Lee WC. 2013. U-skyline: A new skyline query for uncertain databases. IEEE Trans Knowl Data Eng. 25(4):945–960. doi:10.1109/TKDE.2012.33.
 * Liu X, Yang DN, Ye M, Lee WC. 2013. U-skyline: A new skyline query for uncertain databases. IEEE Trans Knowl Data Eng. 25(4):945–960. doi:10.1109/TKDE.2012.33.
 * Wijayanto H, Wang W, Ku W-S, Chen A. 2020. LShape Partitioning: Parallel Skyline Query Processing using MapReduce. IEEE Trans Knowl Data Eng. XX(XX):1–1. doi:10.1109/tkde.2020.3021470.
 * Yu W, Liu J, Pei J, Xiong L, Chen X, Qin Z. 2020. Efficient Contour Computation of Group-Based Skyline. IEEE Trans Knowl Data Eng. 32(7):1317–1332. doi:10.1109/TKDE.2019.2905239.
