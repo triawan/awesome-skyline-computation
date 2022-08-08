@@ -1,5 +1,6 @@
 # **Awesome Skyline Computation**
 
+This repository is created as a learning resource for anyone who wants to learn and explore the topic of skyline computing. Learning resources in this repository we get randomly from anywhere. Happy learning and enjoy your learning journey.
 
 ## **This repository is still under development.** 
 = = = Please be patient and happy waiting. = = =
@@ -93,9 +94,23 @@
 * to be continue
 
 ## **Dataset**
-* NBA
-* Hotel
-* to be continue
+* **NBA Player Statictics**
+  * [Dataset 1](dataset/nba-players-stats/nba-U-8-17264.csv)
+  * [Dataset 2](dataset/nba-players-stats/player_data.csv)
+  * [Dataset 3](dataset/nba-players-stats/Players.csv)
+  * [Dataset 4](dataset/nba-players-stats/Seasons_Stats.csv)
+* **AReM**
+  * [Dataset 1](dataset/bending1)
+  * [Dataset 2](dataset/bending2)
+  * [Dataset 3](dataset/cycling)
+  * [Dataset 4](dataset/sitting)
+  * [Dataset 5](dataset/standing)
+  * [Dataset 6](dataset/walking)
+* [**Environmental Sensor Data**](dataset/environmental-sensor-data-132k/iot_telemetry_data.csv)
+* [**Historical Rainfall Data in Bangladesh**](dataset/historical-rainfall-data-in-bangladesh/)
+* [**Internet Network**](dataset/internet-network/)
+* [**Time Series in IoT**](dataset/time-series-in-IoT/)
+* **to be continue**
 
 ## **FYI**
 If you have articles, source code or other reference sources, please submit them to this repository via the pull request menu. 
