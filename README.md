@@ -49,7 +49,10 @@ This repository is created as a learning resource for anyone who wants to learn 
 * to be continue
 
 ## **Video**
-* list
+* Intro to Database Systems Carnegie Mellon University https://www.youtube.com/playlist?list=PLSE8ODhjZXjZaHA6QcxDfJ0SIWBzQFKEG
+* Advance Database Systems Carnegie Mellon University https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O
+* Hardware Accelerated Database Carnegie Mellon University https://www.youtube.com/playlist?list=PLSE8ODhjZXjbjOyrcqgE6_lCV6xvzffSN
+* Database Systems Technische Universität Kaiserslautern https://www.youtube.com/playlist?list=PL1EOurBatQDWR_ZBcNzUzsUIx_p2EKcmr
 * to be continue
 
 ## **Research Paper**
