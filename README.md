@@ -2,9 +2,6 @@
 
 This repository is created as a learning resource for anyone who wants to learn and explore the topic of skyline computing. Learning resources in this repository we get randomly from anywhere. Happy learning and enjoy your learning journey.
 
-## **This repository is still under development.** 
-= = = Please be patient and happy waiting. = = =
-
 ## **Ebook**
 * Ramakrishnan, Raghu, Johannes Gehrke, and Johannes Gehrke. Database management systems. Vol. 3. New York: McGraw-Hill, 2003.
 * Beynon-Davies, Paul. Database systems. Bloomsbury Publishing, 2017.
@@ -36,8 +33,8 @@ This repository is created as a learning resource for anyone who wants to learn 
 
 ## **Source Code and Algorithm**
 * Python
-  * B-tree - triawan : on progress
-  * R-tree - triawan : on progress
+  * B-tree : https://github.com/triawan/misc/blob/main/5_B-tree_Python.ipynb
+  * R-tree : 
 * to be continue
 
 ## **Lecture Notes**
