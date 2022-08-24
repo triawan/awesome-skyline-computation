@@ -2,6 +2,22 @@
 
 This repository is created as a learning resource for anyone who wants to learn and explore the topic of skyline computing. Learning resources in this repository we get randomly from anywhere. Happy learning and enjoy your learning journey.
 
+## **Methods**
+* Sort-Based Skyline Queries
+  * Block-Nested Loop (BNL)
+  * SFS
+  * Linear Elimination Sort for Skyline (LESS)
+  * SaLSa
+  * to be continue
+* Index-Based Skyline Queries
+  * BBS
+  * Z-SKY
+  * to be continue
+* Dominance Relation-Based Skyline Queries
+  * Object-based Space Partitioning Skyline
+  * BSkyTree
+  * BJR-Tree
+  * to be continue
 ## **Ebook**
 * Ramakrishnan, Raghu, Johannes Gehrke, and Johannes Gehrke. Database management systems. Vol. 3. New York: McGraw-Hill, 2003.
 * Beynon-Davies, Paul. Database systems. Bloomsbury Publishing, 2017.
